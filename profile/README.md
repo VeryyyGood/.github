@@ -22,17 +22,16 @@
 
 - [배기영](https://github.com/bbky323)
 - [김보경](https://github.com/kimbodle)
+- [문채영](https://github.com/mcy0325)
 - [이서정](https://github.com/girin-sj) ⭐ 
 
 ### 백엔드 개발팀
 
 - [강민준](https://github.com/MinJunKKang)
-- [문채영](https://github.com/mcy0325)
 - [양지원](https://github.com/persi0815) ⭐
 
 ### AI 기술 개발팀
 
-- [강민준](https://github.com/MinJunKKang)
+- [배기영](https://github.com/bbky323)
 - [문채영](https://github.com/mcy0325) ⭐
-- [양지원](https://github.com/persi0815) 
 
