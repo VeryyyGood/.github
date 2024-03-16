@@ -29,7 +29,7 @@
 - [강민준](https://github.com/MinJunKKang)
 - [양지원](https://github.com/persi0815) ⭐
 
-### AI 기술 개발팀
+### AI 기술 개발자
 
 - [문채영](https://github.com/mcy0325) ⭐
 
